@@ -1,8 +1,16 @@
 <div align="left">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24,30&text=Igor%20Tavares&fontSize=48&fontColor=F8E8FF&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20•%20Python%20•%20FastAPI%20•%20Azure%20•%20AI&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=24,25,26,27&text=Igor%20Tavares&fontSize=48&fontColor=F8E8FF&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20•%20Python%20•%20FastAPI%20•%20Azure%20•%20AI&descAlignY=58&descSize=18" width="950" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=C792EA&center=true&vCenter=true&width=900&lines=Backend+developer+focused+on+APIs+and+software+architecture;Desenvolvedor+backend+focado+em+APIs+e+arquitetura;Projects+with+Python%2C+FastAPI%2C+Azure+and+LLMs;Projetos+com+Python%2C+FastAPI%2C+Azure+e+LLMs;Cloud+integration+and+AI-powered+experiences;Integra%C3%A7%C3%A3o+de+solu%C3%A7%C3%B5es+e+experi%C3%AAncias+com+IA" alt="Typing SVG" />
+</p>
+  <img src="assets/banner.png" alt="Banner Igor Tavares" width="950" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=C792EA&left=true&vCenter=true&width=900&lines=Backend+developer+focused+on+APIs+and+software+architecture;Desenvolvedor+backend+focado+em+APIs+e+arquitetura;Projects+with+Python%2C+FastAPI%2C+Azure+and+LLMs;Projetos+com+Python%2C+FastAPI%2C+Azure+e+LLMs;Cloud+integration+and+AI-powered+experiences;Integra%C3%A7%C3%A3o+de+solu%C3%A7%C3%B5es+e+experi%C3%AAncias+com+IA" alt="Typing SVG" />
+<br>
+
+
+
 
 ---
 
